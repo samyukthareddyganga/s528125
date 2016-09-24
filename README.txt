@@ -1,0 +1,1 @@
+This website is a simple website which contains my information and about NWMSU. We can calculate the amount required for a student dending on number of courses. If customers have any quieres about university they can contact me from the third page.
